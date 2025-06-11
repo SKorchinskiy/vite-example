@@ -1,4 +1,4 @@
-# vite-example
+# vite-example 2
 
 **Todo** is better Hello World!
 
